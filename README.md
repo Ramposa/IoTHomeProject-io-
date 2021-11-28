@@ -10,13 +10,11 @@ IoTProject
 │   README.md 
 │
 └───IoTHomeMonitoring
-    │   IoTProject.ino [IoT Device program]
     │   
     │
     └───IoTDevice
-    |   │   file111.txt
-    |   │   file112.txt
-    |   │   ...
+    |   │   IoTProject.ino [IoT Device program]
+    |   │ 
     └───WebPage
         │   index.html
         │   style.css
