@@ -46,3 +46,7 @@ IoTProject
 # Acknowledgements
 - With every website I created, I have used a **FREE OPEN SOURCED** front-end framework which bootstrap 4, likewise with a lot of code in this framework it wil include pre-made CSS,
 
+# Licence & Copyright
+Copyright &copy; daniel.tang York St John University
+
+Licence is under [MIT Licence](LICENCE) 
