@@ -49,4 +49,4 @@ IoTProject
 # Licence & Copyright
 Copyright &copy; daniel.tang York St John University
 
-Licence is under [MIT Licence](LICENCE) 
+Licence is under [MIT Licence](LICENCE.md) 
