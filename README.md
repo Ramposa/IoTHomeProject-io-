@@ -16,10 +16,10 @@ IoTProject
     │   
     │
     └───Main
-    |   │   IoTProject.ino [IoT Device program]
+    |   └───IoTProject.ino [IoT Device program]
     |   
     └───TestProgram
-        └─── [All test programs stored here]
+        └───[All test programs stored here]
 
 ```
 
