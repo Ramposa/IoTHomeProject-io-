@@ -34,7 +34,7 @@ IoTProject
 
 # Built With
 - MS VSC
-- MySQL Workbench
+- Arduino IDE
 - Bootstrap 4
 
 # Contribution
