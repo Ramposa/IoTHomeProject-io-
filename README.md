@@ -12,9 +12,6 @@ IoTProject
 |   index.html
 |   Style.css
 |
-└───Image
-|   └─── [All image for website stored here]
-|
 └───IoTHomeProject
     │   
     │
