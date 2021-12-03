@@ -8,20 +8,22 @@
 ```
 IoTProject
 │   README.md 
-│
-└───IoTHomeMonitoring
+│   LICENCE.md
+|   index.html
+|   Style.css
+|
+└───Image
+|   └─── [All image for website stored here]
+|
+└───IoTHomeProject
     │   
     │
-    └───IoTDevice
+    └───Main
     |   │   IoTProject.ino [IoT Device program]
-    |   │ 
-    └───WebPage
-        │   index.html
-        │   style.css
-        │   ...
-        └───Images
-        │   ...
-        │   ...
+    |   
+    └───TestProgram
+        └─── [All test programs stored here]
+
 ```
 
 # Contact
