@@ -4,8 +4,8 @@
 #define Atomizer 0 // A0
 #define AirPIN 1 // A1
 #define MQ2pin 2 // A2
-
-int motorPin = 4;
+#define motorPin 4
+//int motorPin = 4;
 float sensorValue;  //variable to store sensor value
 float atomizerValue;
 float airValue;
@@ -17,7 +17,7 @@ const unsigned long channel_id = 1573881; // CH ID
 const char write_api_key[] = "CTXB3D7BB16SI71Y";// API key LOOK INNTO API KEYS TAB
 
 dht DHT; // Initalize dht to DHT
-//WiFiClient client; // Connect to to a specified internet IP address
+WiFiClient client; // Connect to to a specified internet IP address
 
 void setup() {
   // Setting up connection
