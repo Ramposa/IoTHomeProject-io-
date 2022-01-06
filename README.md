@@ -25,7 +25,7 @@ IoTProject
 - **Email:** daniel.tang@yorksj.ac.uk
 
 # Known bugs
-- Non reported so far of: 20/11/21
+- No reported so far of: 02/01/22
 
 # Built With
 - MS VSC
