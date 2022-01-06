@@ -42,4 +42,5 @@ IoTProject
 - With every website I created, I have used a **FREE OPEN SOURCED** front-end framework which bootstrap 4, likewise with a lot of code in this framework it wil include pre-made CSS,
 
 # Licence & Copyright
-- Licence is under [MIT Licence](LICENCE.md) .
+- Licence is under [MIT Licence](LICENCE.md).
+- tl:dr - I am NOT liable if you copy this repositiory and if something is broken, or not work as intended I am NOT responsible, this is for you to work yourself out.
