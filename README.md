@@ -43,4 +43,4 @@ IoTProject
 
 # Licence & Copyright
 - Licence is under [MIT Licence](LICENCE.md).
-- tl:dr - I am NOT liable if you copy this repositiory and if something is broken, or not work as intended I am NOT responsible, this is for you to work yourself out.
+- tl:dr - I am NOT liable if you copy this repositiory and if something is broken, or not work as intended I am NOT responsible, this is for you to work yourself out, under the [MIT Licence](LICENCE.md).
