@@ -12,10 +12,10 @@ float airValue;
 float motorValue;
 const int dht_apin = A3; // Analog Pin sensor is connected to A3
 char ssid[] = "IoTTestNetwork"; // Network name
-const char password [] = "7HzOTHxq"; // PWD
+const char password [] = ""; // PWD
 
 const unsigned long channel_id = 1573881; // CH ID
-const char write_api_key[] = "EYH5ZW24SDBPD3HS";// API key LOOK INNTO API KEYS TAB
+const char write_api_key[] = "";// API key LOOK INNTO API KEYS TAB
 
 dht DHT; // Initalize dht to DHT
 WiFiClient client; // Connect to to a specified internet IP address
